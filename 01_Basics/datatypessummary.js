@@ -8,7 +8,9 @@ another_name = "New Name"
 // console.log("After Changes");
 // console.log(youtube_channel);
 // console.log(another_name);
-
+/*
+Stack Memory (Primitive Data Types) and Heap Memory (Non-Primitive Data Types)
+*/
 const id = Symbol("123")
 const new_id = Symbol("123")
 // console.log(id === new_id);
